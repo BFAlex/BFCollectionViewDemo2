@@ -106,9 +106,6 @@
 				A8B3CB981DC1CCE600E9618E /* ViewController.h */,
 				A8B3CB991DC1CCE600E9618E /* ViewController.m */,
 				A8B3CB9B1DC1CCE600E9618E /* Main.storyboard */,
-				A8B3CB9E1DC1CCE600E9618E /* Assets.xcassets */,
-				A8B3CBA01DC1CCE600E9618E /* LaunchScreen.storyboard */,
-				A8B3CBA31DC1CCE600E9618E /* Info.plist */,
 				A8B3CB921DC1CCE600E9618E /* Supporting Files */,
 			);
 			path = BFCollectionViewDemo;
@@ -117,6 +114,9 @@
 		A8B3CB921DC1CCE600E9618E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A8B3CB9E1DC1CCE600E9618E /* Assets.xcassets */,
+				A8B3CBA01DC1CCE600E9618E /* LaunchScreen.storyboard */,
+				A8B3CBA31DC1CCE600E9618E /* Info.plist */,
 				A8B3CB931DC1CCE600E9618E /* main.m */,
 			);
 			name = "Supporting Files";
